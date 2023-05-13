@@ -1,7 +1,7 @@
 === Sample Plugin ===
-Contributors: (this should be a list of wordpress.org userid's)
+Contributors: alberuni-azad
 Donate link: https://example.com/
-Tags: comments, spam
+Tags: Unit test
 Requires at least: 4.5
 Tested up to: 6.2
 Requires PHP: 5.6
